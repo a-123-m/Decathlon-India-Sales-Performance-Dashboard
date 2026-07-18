@@ -107,3 +107,14 @@ Analyzed each dashboard page to identify key business insights and translated th
   <li>Data Visualization</li>
   <li>Figma - Dashboard inspiration</li>
 </ol>
+
+<div>
+  <h2>Connect with Me</h2>
+<a href="mailto:aiswarya2000mohan@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://www.linkedin.com/in/aiswarya-mohan-950948221/">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+</div>
+
