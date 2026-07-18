@@ -11,7 +11,10 @@ An interactive Excel dashboard built with Power Pivot, DAX, PivotTables and Pivo
 ![Dashboard Preview](Picture003.png)
 ![Dashboard Preview](Picture004.png)
 ![Dashboard Preview](Picture005.png)
- 
+# Dashboard Demo
+<p align="center">
+<img src="Decathlon_screenrecording.gif" width="500" height="500">
+</p>
   <h4>🤔Business Problem</h4>
 Decathlon's management lacked a centralized reporting solution to monitor sales performance, customer insights, retail operations and product returns. The objective was to create an interactive dashboard that supports data-driven decision-making across multiple business functions.
 
