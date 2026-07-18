@@ -83,4 +83,27 @@ Downloaded Decathlon Sales dataset from Kaggle. Explored the dataset to understa
 <h4>Step 2: Data Preparation and Cleaning</h4>
 The dataset was uploaded to Power Query editor in Excel and necessary cleaning and formatting like checking for missing values and other inconsistencies in data was done. A calendar table was created using Power Pivot to apply DAX Time Intelligence functions.
 <h4>Step 3: Data Modelling</h4>
-I started with a single fact table. But in order to create a data model and use star schema, I created separate dimension tables (Customer,Store,Product,Calendar) from the transactional data to design a star schema in Power Pivot. Then I established relationships between the fact table and dimension tables to support efficient analysis and DAX calculations.
+The dataset initially had only one transactional (fact) table. To build a proper data model using Star Schema, I created separate dimension tables for Customer, Store, Product and Calendar from the existing data. After creating the dimension tables, I established relationships between the fact table and each dimension table. This made the data model more organized and supported efficient analysis, filtering and DAX calculations.
+
+![Project Workflow](datamodel.png)
+<br>
+<h4>Step 4: Created DAX Measures</h4>
+Created DAX measures in Power Pivot to calculate key business metrics.
+<h4>Step 5: Data Analysis</h4>
+Analyze sales, profit, customer behavior, store performance, campaign performance and product returns using PivotTables and DAX measures.
+<h4>Step 6: Dashboard Development</h4>
+Built multiple interactive dashboard pages using PivotTables, PivotCharts, KPI cards and slicers. Designed a consistent layout, navigation and color theme to provide a clean, user-friendly and executive-style reporting experience.
+<h4>Step 7: Generated Insights & Recommendations</h4>
+Analyzed each dashboard page to identify key business insights and translated the findings into actionable recommendations.
+
+# Tools and Technologies used
+<ol>
+  <li>Microosft Excel</li>
+  <li>Power Query</li>
+  <li>Data Modelling</li>
+  <li>Data Cleaning</li>
+  <li>DAX (Data Analysis Expressions) </li>
+  <li>Data Analysis</li>
+  <li>Data Visualization</li>
+  <li>Figma - Dashboard inspiration</li>
+</ol>
