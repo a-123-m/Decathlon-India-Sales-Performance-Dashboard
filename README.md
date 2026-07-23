@@ -108,6 +108,9 @@ Analyzed each dashboard page to identify key business insights and translated th
   <li>Figma - Dashboard inspiration</li>
 </ol>
 
+If you found this project helpful, consider giving it a ⭐ on GitHub!
+Thank you❤️
+
 <div>
   <h2>Connect with Me</h2>
 <a href="mailto:aiswarya2000mohan@gmail.com">
